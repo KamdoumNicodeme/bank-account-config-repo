@@ -1,0 +1,8 @@
+customer:
+  params:
+    a: 3
+    b: 4
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:account-db
